@@ -1,0 +1,2 @@
+# Customer_contribution_predictor_V2
+Extended version of previous Customer_contribution_predictor model
